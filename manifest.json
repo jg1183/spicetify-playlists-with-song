@@ -1,0 +1,11 @@
+[
+	{
+		"name": "Playlists With Song",
+		"description": "Right-click any song to see every playlist in your library that contains it. Click a result to jump to the playlist.",
+		"preview": "preview.png",
+		"main": "playlistsWithSong.js",
+		"readme": "README.md",
+		"authors": [{ "name": "YOUR-GITHUB-USERNAME", "url": "https://github.com/YOUR-GITHUB-USERNAME" }],
+		"tags": ["playlist", "library", "context-menu"]
+	}
+]
