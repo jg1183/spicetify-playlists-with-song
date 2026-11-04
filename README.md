@@ -22,4 +22,4 @@ Right-click any song (including local files) and choose **Show playlists with th
 
 - Large libraries can take a few seconds on the first search.
 - Written from scratch for recent Spotify versions as a replacement for huhridge's `listPlaylistsWithSong`, which no longer works.
-- If something breaks, open DevTools (Ctrl+Shift+I) → Console, copy any line starting with `[PlaylistsWithSong]`, and open an issue.
+- If something breaks, open an issue.
