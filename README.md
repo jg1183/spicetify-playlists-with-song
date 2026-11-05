@@ -2,8 +2,6 @@
 
 A Spicetify extension that shows every playlist in your library containing a given song, fast, even with hundreds of playlists.
 
-![Preview](preview.png)
-
 ## Usage
 
 Right-click any song (including local files) and choose **Show playlists with this song**. A popup lists every playlist in your library that contains it, with the owner and folder. Click a result to open that playlist.
